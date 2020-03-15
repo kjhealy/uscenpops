@@ -161,6 +161,10 @@ p + geom_ribbon(alpha = 0.9, color = "black", size = 0.1) +
 
 ```
 
+## Source
+
+The data are sourced from the [US Census Bureau](http://census.gov), principally from the residential estimates available in various formats and spans at <https://www2.census.gov/programs-surveys/popest/tables/>.
+
 ## Similar Packages
 
 - Neal Grantham's [uspops](https://github.com/nsgrantham/uspops) contains _total_ annual population estimates from 1900 to 2018 as well as _state total_ annual estimates over the same period. 
