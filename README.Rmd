@@ -1,0 +1,29 @@
+---
+output: github_document
+---
+
+<!-- README.md is generated from README.Rmd. Please edit that file -->
+
+```{r, include = FALSE}
+knitr::opts_chunk$set(
+  collapse = TRUE,
+  comment = "#>",
+  fig.path = "man/figures/README-",
+  out.width = "100%"
+)
+```
+
+# uscenpops
+
+<!-- badges: start -->
+<!-- badges: end -->
+
+This package provides a single dataset of censal and intercensal population estimates for the United States by year of age and sex, for every year from 1900 to 2019. 
+
+## Installation
+
+
+``` r
+remotes::install_github("kjhealy/uscenpops")
+```
+

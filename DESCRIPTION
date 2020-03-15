@@ -1,0 +1,13 @@
+Package: uscenpops
+Title: What the Package Does (One Line, Title Case)
+Version: 0.0.0.9000
+Authors@R: 
+    person(given = "Kieran",
+           family = "Healy",
+           role = c("aut", "cre"),
+           email = "kjhealy@gmail.com",
+           comment = c(ORCID = "https://orcid.org/0000-0001-9114-981X"))
+Description: What the package does (one paragraph).
+License: MIT + file LICENSE
+Encoding: UTF-8
+LazyData: true
