@@ -7,9 +7,10 @@ Authors@R:
            role = c("aut", "cre"),
            email = "kjhealy@gmail.com",
            comment = c(ORCID = "https://orcid.org/0000-0001-9114-981X"))
-Description: What the package does (one paragraph).
+Description: Decennial and Intercensal Estimates of US Population by Age and Sex 1990-2019 from the US Census Bureau.
 License: MIT + file LICENSE
 Encoding: UTF-8
 LazyData: true
 URL: https://github.com/kjhealy/uscenpops
 BugReports: https://github.com/kjhealy/uscenpops/issues
+RoxygenNote: 7.1.0
