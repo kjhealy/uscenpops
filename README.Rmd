@@ -163,7 +163,7 @@ p + geom_ribbon(alpha = 0.9, color = "black", size = 0.1) +
 
 ## Source
 
-The data are sourced from the [US Census Bureau](http://census.gov), principally from the residential estimates available in various formats and spans at <https://www2.census.gov/programs-surveys/popest/tables/>.
+The data are sourced from the [US Census Bureau](http://census.gov), from the residential estimates available in various formats and spans at <https://www2.census.gov/programs-surveys/popest/tables/>. In any year where multiple months were available, the July estimate was used. 
 
 ## Similar Packages
 
