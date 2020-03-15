@@ -187,6 +187,10 @@ p + geom_ribbon(alpha = 0.9, color = "black", size = 0.1) +
 
 <img src="man/figures/README-example-2-1.png" title="plot of chunk example-2" alt="plot of chunk example-2" width="100%" />
 
+## Source
+
+The data are sourced from the [US Census Bureau](http://census.gov), from the residential estimates available in various formats and spans at <https://www2.census.gov/programs-surveys/popest/tables/>. In any year where multiple months were available, the July estimate was used. 
+
 ## Similar Packages
 
 - Neal Grantham's [uspops](https://github.com/nsgrantham/uspops) contains _total_ annual population estimates from 1900 to 2018 as well as _state total_ annual estimates over the same period. 
