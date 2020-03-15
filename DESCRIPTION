@@ -1,5 +1,5 @@
 Package: uscenpops
-Title: Decennical and Intercensal Estimates of US Population by Age and Sex 1990-2019
+Title: Decennial and Intercensal Estimates of US Population by Age and Sex 1990-2019
 Version: 0.0.0.9000
 Authors@R: 
     person(given = "Kieran",
