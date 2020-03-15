@@ -1,6 +1,14 @@
+---
+output: github_document
+---
+
 <!-- README.md is generated from README.Rmd. Please edit that file -->
 
-# uscenpops
+
+
+
+# uscenpops <img src="man/figures/hex-uscenpops.png" align="right" width="240"
+
 
 <!-- badges: start -->
 [![Travis build status](https://travis-ci.org/kjhealy/uscenpops.svg?branch=master)](https://travis-ci.org/kjhealy/uscenpops)
@@ -182,3 +190,7 @@ p + geom_ribbon(alpha = 0.9, color = "black", size = 0.1) +
 ```
 
 <img src="man/figures/README-example-2-1.png" title="plot of chunk example-2" alt="plot of chunk example-2" width="100%" />
+
+## Similar Packages
+
+- Neal Grantham's [uspops](https://github.com/nsgrantham/uspops) contains _total_ annual population estimates from 1900 to 2018 as well as _state total_ annual estimates over the same period. 

@@ -14,7 +14,7 @@ knitr::opts_chunk$set(
 ```
 
 
-# uscenpops
+# uscenpops <img src="man/figures/hex-uscenpops.png" align="right" width="240"
 
 
 <!-- badges: start -->
