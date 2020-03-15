@@ -1,13 +1,9 @@
----
-output: github_document
----
-
 <!-- README.md is generated from README.Rmd. Please edit that file -->
 
 
 
 
-# uscenpops <img src="man/figures/hex-uscenpops.png" align="right" width="240"
+# uscenpops <img src="man/figures/hex-uscenpops.png" align="right" width="240">
 
 
 <!-- badges: start -->
