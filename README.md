@@ -1,3 +1,7 @@
+---
+output: github_document
+---
+
 <!-- README.md is generated from README.Rmd. Please edit that file -->
 
 
@@ -14,7 +18,7 @@ This package provides a single dataset of censal and intercensal population esti
 
 ## Installation
 
-`uscenpops` is a data package. 
+`uscenpops` is a data package for use in teaching. 
 
 ### Install direct from GitHub
 
@@ -72,6 +76,16 @@ The package works best with the [tidyverse](http://tidyverse.org/) libraries.
 
 ```r
 library(tidyverse)
+#> ── Attaching packages ────────────────────────────────────────────────────────────────────────── tidyverse 1.3.0 ──
+#> ✓ ggplot2 3.3.0     ✓ purrr   0.3.3
+#> ✓ tibble  3.0.0     ✓ dplyr   0.8.5
+#> ✓ tidyr   1.0.2     ✓ stringr 1.4.0
+#> ✓ readr   1.3.1     ✓ forcats 0.5.0
+#> ── Conflicts ───────────────────────────────────────────────────────────────────────────── tidyverse_conflicts() ──
+#> x dplyr::filter()  masks stats::filter()
+#> x purrr::is_null() masks testthat::is_null()
+#> x dplyr::lag()     masks stats::lag()
+#> x dplyr::matches() masks tidyr::matches(), testthat::matches()
 ```
 
 Load the data:
