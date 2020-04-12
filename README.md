@@ -194,3 +194,28 @@ The data are sourced from the [US Census Bureau](http://census.gov), from the re
 ## Similar Packages
 
 - Neal Grantham's [uspops](https://github.com/nsgrantham/uspops) contains _total_ annual population estimates from 1900 to 2018 as well as _state total_ annual estimates over the same period. 
+
+
+## Citation
+
+
+```r
+citation("uscenpops")
+#> 
+#> To cite the package 'uscenpops' in publications use:
+#> 
+#> Healy K (2020). _uscenpops: US Census Counts_. R package version 0.1.0, <URL:
+#> http://kjhealy.github.io/uscenpops>.
+#> 
+#> A BibTeX entry for LaTeX users is
+#> 
+#>   @Manual{uscenpops,
+#>     title = {uscenpops: US Census Counts},
+#>     date = {2020},
+#>     author = {Kieran Healy},
+#>     year = {2020},
+#>     note = {R package version 0.1.0},
+#>     url = {http://kjhealy.github.io/uscenpops},
+#>   }
+```
+

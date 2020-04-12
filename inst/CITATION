@@ -3,6 +3,7 @@ citHeader("To cite the package 'uscenpops' in publications use:")
 bibentry(
     bibtype  = "Manual",
     title = "uscenpops: US Census Counts",
+    date = "2020",
     author   = person(given = "Kieran",
                       family = "Healy",
                       role = c("aut", "cre"),

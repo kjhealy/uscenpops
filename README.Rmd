@@ -168,3 +168,11 @@ The data are sourced from the [US Census Bureau](http://census.gov), from the re
 ## Similar Packages
 
 - Neal Grantham's [uspops](https://github.com/nsgrantham/uspops) contains _total_ annual population estimates from 1900 to 2018 as well as _state total_ annual estimates over the same period. 
+
+
+## Citation
+
+```{r citation}
+citation("uscenpops")
+```
+
